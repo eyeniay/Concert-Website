@@ -4,7 +4,7 @@ The site shows concert activities organized under the project and helps users to
 *********
 The project was developed using PHP, MYSQL and provide 3-tier architecture(Data Layer, Logic Layer,Presentation Layer).It has basic admin panel that contains editable user table.
 *********
-I exported database to "organization.sql"[a link](https://goo.gl/YQpv9s) file.You can import it into one of your hosting account's MySQL databases through phpMyAdmin
+I exported database to ["organization.sql"](https://goo.gl/YQpv9s) file.You can import it into one of your hosting account's MySQL databases through phpMyAdmin
 
 Header
 *********
