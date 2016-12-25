@@ -21,9 +21,13 @@ Admin logged in
 
 *********
 ![ScreenShot](http://i.hizliresim.com/PnO5MQ.png)
+*********
 ![ScreenShot](http://i.hizliresim.com/g29ko2.png)
+*********
 ![ScreenShot](http://i.hizliresim.com/9gDVLQ.png)
+*********
 ![ScreenShot](http://i.hizliresim.com/Moa6Ja.png)
+*********
 ![ScreenShot](http://i.hizliresim.com/QvpRMV.png)
 
 *********
