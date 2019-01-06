@@ -8,27 +8,27 @@ I exported database to ["organization.sql"](https://goo.gl/YQpv9s) file.You can 
 
 Header
 *********
-![ScreenShot](http://i.hizliresim.com/LZOp31.png)
+![ScreenShot](https://imageshack.com/a/img922/7438/ow4MSN.png)
 
 User logged
 *********
-![ScreenShot](http://i.hizliresim.com/r6Jg9M.png)
+![ScreenShot](https://imageshack.com/a/img922/6835/8sDAXL.png)
 
 Admin logged in
 *********
-![ScreenShot](http://i.hizliresim.com/77yovv.png)
-![ScreenShot](http://i.hizliresim.com/qjJ4BW.png)
+![ScreenShot](https://imageshack.com/a/img922/6476/RFGOI7.png)
+![ScreenShot](https://imageshack.com/a/img924/1319/WZgTlD.png)
 
 *********
-![ScreenShot](http://i.hizliresim.com/PnO5MQ.png)
+![ScreenShot](https://imageshack.com/a/img922/7622/hi2bhG.png)
 *********
-![ScreenShot](http://i.hizliresim.com/g29ko2.png)
+![ScreenShot](https://imageshack.com/a/img924/4294/dYju8Z.png)
 *********
-![ScreenShot](http://i.hizliresim.com/9gDVLQ.png)
+![ScreenShot](https://imageshack.com/a/img924/5811/m7L4EY.png)
 *********
-![ScreenShot](http://i.hizliresim.com/Moa6Ja.png)
+![ScreenShot](https://imageshack.com/a/img922/4562/MGVlbA.png)
 *********
-![ScreenShot](http://i.hizliresim.com/QvpRMV.png)
+![ScreenShot](https://imageshack.com/a/img921/5474/0O7pbf.png)
 
 *********
 Template was design by W3layouts
